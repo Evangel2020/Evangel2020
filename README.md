@@ -1,5 +1,5 @@
 ### Holla 👋💃🥰
-**Evangeline is a girl who is aiming at becoming a software Engineer. Thiving hard to learn most programming languages in other to solve real life problems.
+**Evangeline is a girl who is aiming at becoming a software Engineer. Thriving hard to learn most programming languages in other to solve real life problems.
 
 #My Activities:
 
@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with alot of senior developers
 - 💬 Ask me about my coding experience
 - 📫 How to reach me: On my Socials
-- 😄 Pronouns: Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love trying new things, solving solutions and reading interesting Novels.  
 
 
